@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+------------- C:\Users\Denton\Desktop\Commodore Fall 2016\GEOS\ --------------
+--------- __My GeoProgrammer Projects\_RawPlayer\rtf\geoRawPlay.d64 ----------
+------------------------------------------------------------------------------
+0 "RawPlay         " 1a 2A
+120  "DESK TOP"         SYS
+8    "RawPlayHdr"       DOC
+40   "RawPlayAll"       DOC
+5    "RawPlay.lnk"      DOC
+35   "RawPlayHdr.rel"   DOC
+41   "RawPlayAll.rel"   DOC
+34   "Vulcan Mind"      DAT<
+5    "RawPlay"          APP
+22   "RawPlay.dbg"      DOC
+58   "geosSym"          DOC
+15   "geosMac"          DOC
+15   "TransText"        APP<
+5    "FORM: ASCII"      DOC
+34   "RAWPLAYER"        SEQ
+40   "RawPlay.wri"      DOC
+184 BLOCKS FREE.
+
